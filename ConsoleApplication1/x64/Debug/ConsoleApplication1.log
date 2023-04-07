@@ -1,0 +1,60 @@
+﻿  ConsoleApplication1.c
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(27,31): warning C4047: '=': 'FILES (*)' differs in levels of indirection from 'FILE *'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(47,43): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(47,39): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(55,13): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(55,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(60,31): warning C4047: '=': 'FILES (*)' differs in levels of indirection from 'FILE *'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(65,41): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(65,37): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(66,18): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(66,14): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(70,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(70,15): warning C4024: 'feof': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(73,42): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(73,38): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(74,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(74,15): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(86,32): warning C4047: '=': 'FILES (*)' differs in levels of indirection from 'FILE *'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(90,41): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(90,37): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(91,18): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(91,14): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(96,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(96,15): warning C4024: 'feof': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(101,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'NrCurse'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(102,14): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(102,10): warning C4024: 'fseek': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(103,44): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(103,40): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(109,42): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(109,38): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(110,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(110,15): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(116,13): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(116,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(123,31): warning C4047: '=': 'FILES (*)' differs in levels of indirection from 'FILE *'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(128,47): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(128,43): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(146,13): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(146,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(154,32): warning C4047: '=': 'FILES (*)' differs in levels of indirection from 'FILE *'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(158,41): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(158,37): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(159,18): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(159,14): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(164,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(164,15): warning C4024: 'feof': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(167,14): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(167,10): warning C4024: 'fseek': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(168,44): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(168,40): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(174,42): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(174,38): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(175,19): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(175,15): warning C4024: 'ferror': different types for formal and actual parameter 1
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(181,13): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILES (*)'
+C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(181,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+  Mian.c
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\LENOVO\OneDrive\Documente\C_singura\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
